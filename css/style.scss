@@ -11,6 +11,12 @@
   }
 }
 
+@mixin resposiveMob() {
+  @media screen and (max-width: 430px) {
+    @content;
+  }
+}
+
 @import 'partials/colors';
 
 body {

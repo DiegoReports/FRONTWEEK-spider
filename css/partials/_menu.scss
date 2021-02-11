@@ -39,7 +39,7 @@ header {
 }
 
 .nav-link {
-  display: inline-block;
+  /* display: inline-block; */
 
   font-size: 14px;
   letter-spacing: 2px;
@@ -76,6 +76,17 @@ header {
       height: 40px;
 
     }
+  }
+}
+
+.hash {
+  color: #d63033; 
+  font-style: italic;
+
+  &:hover {
+
+    border-bottom: 1px solid $red-dark;
+    transition: 1s ease;
   }
 }
 

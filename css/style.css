@@ -201,6 +201,12 @@ p {
   width: 101%;
 }
 
+@media screen and (max-width: 430px) {
+  .btn-secondary {
+    margin-top: 10px;
+  }
+}
+
 .bg-video {
   position: absolute;
   top: 0;
@@ -306,7 +312,7 @@ header {
 }
 
 .nav-link {
-  display: inline-block;
+  /* display: inline-block; */
   font-size: 14px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -339,6 +345,17 @@ header {
 
 .nav-link:hover::after {
   height: 40px;
+}
+
+.hash {
+  color: #d63033;
+  font-style: italic;
+}
+
+.hash:hover {
+  border-bottom: 1px solid #B31317;
+  -webkit-transition: 1s ease;
+  transition: 1s ease;
 }
 
 .bx {

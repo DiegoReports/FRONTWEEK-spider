@@ -151,6 +151,10 @@
       width: 101%;
     }
   }
+
+  @include resposiveMob() {
+    margin-top: 10px;
+  }
 }
 
 .bg-video {
