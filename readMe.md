@@ -1,4 +1,4 @@
-# [#FRONTWEEK] - PROJETO SPIDER-MAN - Miles Morales
+# 🕸️ [#FRONTWEEK] - PROJETO SPIDER-MAN - Miles Morales
 ____
 <p align="center">
   <a href="#projeto">O Projeto</a> •
@@ -25,12 +25,12 @@ A proposta era desenvolver uma página com tema do novo Game do Spider. Para est
 </p>
 
 ## PREVIEW
-### DESTOP:
+### 💻 DESTOP:
 <p align="center">
   <img src="public/screen/screen-spider-desktop.png">
 </p>
 
-### MOBILE:
+### 📱 MOBILE:
 <p align="center">
   <img src="public/screen/screen-spider-mob.png" width: >
 </p>
@@ -39,7 +39,7 @@ A proposta era desenvolver uma página com tema do novo Game do Spider. Para est
 
 <p id="ui">
 
-## UI Concept
+## 🎨 UI Concept
 
 Desenvolvemos a arte da página utilizando o <a href="https://www.figma.com/">FIGMA</a>.<br>
 Link da arte desenvolvida em aula: <a href="https://www.figma.com/file/U9QebNNHc5wZH26ZqsmAxy/Untitled?node-id=0%3A1">UI Concept</a>
@@ -47,7 +47,7 @@ Link da arte desenvolvida em aula: <a href="https://www.figma.com/file/U9QebNNHc
 
 <p id="tecnologias">
 
-## BIBLIOTECAS E TECNOLOGIAS
+## ⚙️ BIBLIOTECAS E TECNOLOGIAS
 - <i>SVG - Injection</i> (Biblioteca)
 - <i>Sass</i> (Pré-processador CSS)
 - <i>Tilt.js</i> (Biblioteca)
@@ -69,7 +69,7 @@ A codificação do projeto feito feito utilizando a IDE, <a href="https://code.v
 
 <p id="autor">
 
-## AUTOR
+## ✏️ AUTOR
 A autoria do projeto original pertence ao professor <a href="https://nyousefali.com.br/">Násser Yousef</a>, que guiou a aula com excelente didática e deu todo suporte.
 
 Como aluno, pude aprender os principios da criação de um projeto, desde a sua UI até a codificação e animações que tornam a interface amigável e fluida.
